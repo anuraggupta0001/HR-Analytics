@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR-Analytics Dashboard
 1. Project Title / Headline
 
 HR Analytics Dashboard: Employee Attrition & Workforce Insights
@@ -17,11 +17,10 @@ The dashboard was built using the following tools and technologies:
 🧠 DAX (Data Analysis Expressions) – Created calculated measures like attrition rate, averages, and KPIs
 📝 Data Modeling – Relationships between employee data fields (department, salary, age, etc.)
 📁 File Formats – .pbix for development and .png for dashboard preview
+
 4. Data Source
 Source: HR Employee Dataset (sample corporate HR data)
-
 The dataset includes:
-
 Employee demographics (age, gender, education)
 Job-related details (department, job role, salary slab)
 Attrition information (employees who left vs stayed)
