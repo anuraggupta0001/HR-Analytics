@@ -94,4 +94,5 @@ Targeted HR Policies: Address high-attrition roles like Sales & Lab Technicians
 Workforce Planning: Better hiring and training strategies
 Diversity Insights: Monitor gender-based attrition trends
 
-6. Screenshot  
+6. Screenshot
+Link:https://github.com/anuraggupta0001/HR-Analytics
